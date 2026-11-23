@@ -1,0 +1,5 @@
+This project focuses on the assembly, integration, and operation of an Arduino-based autonomous mobile robot using the ELEGOO UNO R3 Smart Robot Car Kit. The robot combines mechanical components, electronic hardware, sensors, motor control, and wireless communication to create a functional mobile robotic platform.
+
+The Arduino UNO R3 serves as the primary control unit, processing sensor inputs and executing programmed instructions to control the robot's movement and behavior. Integrated sensor modules support functions such as line tracking and obstacle detection, while the motor system provides movement and directional control. A camera module provides visual monitoring capabilities during operation.
+
+The project provides hands-on experience with robotics, embedded systems, mechanical assembly, electrical integration, sensor technology, and control systems. The assembled platform also serves as a foundation for future engineering modifications, performance testing, CAD development, and optimization.
